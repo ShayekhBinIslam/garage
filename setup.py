@@ -16,6 +16,7 @@ REQUIRED = [
     'cloudpickle',
     'cma==2.7.0',
     'dowel==0.0.3',
+    'fabric',
     'gym[atari,box2d,classic_control]' + GYM_VERSION,
     'joblib<0.13,>=0.12',
     'numpy>=1.14.5',
